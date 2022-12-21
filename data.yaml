@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 6
+names: ['Amniataba_caudivittatus', 'Caranx', 'Caranx_sexfasciatus_juvenile', 'acanthopagrus_palmaris', 'gerres', 'lutjanus_johnii']
