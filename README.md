@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/81225896/209092037-9fa7d7dd-5b4c-40e9-
 
 👤 **Varun Kalbhore**
 
-- Github: [@kinkaid002]([https://github.com/vinothpandian](https://github.com/kinkaid002))
+- Github: [@kinkaid002](https://github.com/kinkaid002)
 
 👤 **Abhiyant Gwalani**
 
