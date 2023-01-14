@@ -8,5 +8,12 @@ Some of the results for the underwater videos are displayed below:
 
 https://user-images.githubusercontent.com/81225896/209092037-9fa7d7dd-5b4c-40e9-b7c6-6496d7c86805.mp4
 
-##Authors:
-Abhiyant Gwalani - https://github.com/abhiyant-10
+## Authors
+
+👤 **Varun Kalbhore**
+
+- Github: [@kinkaid002]([https://github.com/vinothpandian](https://github.com/kinkaid002))
+
+👤 **Abhiyant Gwalani**
+
+- Github: [@abhiyant-10](https://github.com/abhiyant-10)
